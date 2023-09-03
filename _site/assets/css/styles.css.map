@@ -1,1 +1,0 @@
-{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACC;EACA","sourcesContent":["article {\n\tdisplay: grid;\n\ttext-align: center;\n}\n"],"file":"styles.css"}
