@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+<article>
+	<h1>Collections of DataScience and MachineLearning Projects</h1>
+	<h5>All CSV files and SQL files are public datas.</h5>
+</article>
+
